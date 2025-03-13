@@ -1,2 +1,2 @@
 # Hesap-Makinesi
- HTML, CSS ve JavaScript dillerini içerir.
+ Bu proje HTML, CSS ve JavaScript kodlarını içermektedir.
