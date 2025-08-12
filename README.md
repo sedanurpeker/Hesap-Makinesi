@@ -13,7 +13,7 @@ Bu proje, HTML ve CSS kullanılarak geliştirilmiş basit ve şık bir hesap mak
 - `index.html` → Ana HTML sayfası
 - `style.css` → Tasarım dosyası
 
-## 📷 Ekran Görüntüsü
+## Ekran Görüntüsü
 ![# Hesap-Makinesi](https://github.com/sedanurpeker/Hesap-Makinesi/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-08-12%20112037.png)
 
 ## Kurulum
